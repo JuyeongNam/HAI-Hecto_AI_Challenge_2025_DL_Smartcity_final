@@ -1,0 +1,1 @@
+# HAI-Hecto_AI_Challenge_2025_DL_Smartcity_final
