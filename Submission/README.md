@@ -1,0 +1,1 @@
+- This folder contains submissions for the HAI competition.
