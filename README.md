@@ -46,3 +46,5 @@ Participants are asked to build an AI model that classifies the **car type (clas
 |Final Code & Slides Submission	|June 19, 2025|
 |Code Review & Evaluation	|June 27, 2025|
 |Awards Ceremony	|July 4, 2025|
+
+- This project forms part of the “Introduction to Smart City Deep Learning” class on the graduate programme at Chung-Ang University.
